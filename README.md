@@ -31,7 +31,7 @@ AI를 활용하여 아이디어를 현실의 서비스로 만드는
 
 ## 🏭 Tannus MES
 
-[Website](http://43.203.123.217:8080)**
+🌐 **[Website](http://43.203.123.217:8080)**
 
 💻 **[GitHub](https://github.com/BowWowBow/Tannus-MES)**
 
