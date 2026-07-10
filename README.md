@@ -37,14 +37,6 @@ AI를 활용하여 아이디어를 현실의 서비스로 만드는
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BowWowBow&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BowWowBow&layout=compact&theme=transparent)
-
----
-
 ## 📦 AutoOrder
 
 🌐 **[Live Demo](http://43.203.123.217:8081)**
@@ -86,3 +78,4 @@ http://43.203.123.217:5175
 📍 **Location**
 
 Gimhae, South Korea
+
