@@ -21,20 +21,45 @@ Full Stack Developer입니다.
 
 ## 🚀 Projects
 
-🎮 **Portfolio RPG**  
-🌐 **[Live Demo](http://43.203.123.217:5175)**
+## 🚀 Projects
 
-🏭 **Tannus MES**  
-🌐 **[Live Demo](http://43.203.123.217:8080)**
+### 🎮 Portfolio RPG
 
-📦 **AutoOrder**  
-🌐 **[Live Demo](http://43.203.123.217:8081)**
+🌐 [Live Demo](http://43.203.123.217:5175)
 
-🧸 **ToyShop**  
-🌐 **[Live Demo](http://43.203.123.217:8082)**
+💻 [GitHub](https://github.com/BowWowBow/portfolio-rpg)
 
-🐳 **WhisperMe**  
-🌐 **[Live Demo](http://43.203.123.217:5173)**
+---
+
+🏭 **Tannus MES**
+
+🌐 [Live Demo](http://43.203.123.217:8080)
+
+💻 [GitHub](https://github.com/BowWowBow/Tannus-MES)
+
+---
+
+📦 **AutoOrder**
+
+🌐 [Live Demo](http://43.203.123.217:8081)
+
+💻 [GitHub](https://github.com/BowWowBow/Auto-Order)
+
+---
+
+🧸 **ToyShop**
+
+🌐 [Live Demo](http://43.203.123.217:8082)
+
+💻 [GitHub](https://github.com/BowWowBow/ToyShop)
+
+---
+
+🐳 **WhisperMe**
+
+🌐 [Live Demo](http://43.203.123.217:5173)
+
+💻 [GitHub](https://github.com/BowWowBow/WhisperMe)
 
 ---
 
