@@ -23,7 +23,7 @@ AI를 활용하여 아이디어를 현실의 서비스로 만드는
 ## 🎮 Portfolio RPG
 > 대표 포트폴리오
 
-🌐 **[🌐 Website](http://43.203.123.217:5175)**
+🌐 **[Website](http://43.203.123.217:5175)**
 
 💻 **[GitHub](https://github.com/BowWowBow/portfolio-rpg)**
 
@@ -31,7 +31,7 @@ AI를 활용하여 아이디어를 현실의 서비스로 만드는
 
 ## 🏭 Tannus MES
 
-🌐 **[🌐 Website](http://43.203.123.217:8080)**
+🌐 **[Website](http://43.203.123.217:8080)**
 
 💻 **[GitHub](https://github.com/BowWowBow/Tannus-MES)**
 
@@ -39,7 +39,7 @@ AI를 활용하여 아이디어를 현실의 서비스로 만드는
 
 ## 📦 AutoOrder
 
-🌐 **[🌐 Website](http://43.203.123.217:8081)**
+🌐 **[Website](http://43.203.123.217:8081)**
 
 💻 **[GitHub](https://github.com/BowWowBow/Auto-Order)**
 
@@ -47,7 +47,7 @@ AI를 활용하여 아이디어를 현실의 서비스로 만드는
 
 ## 🧸 ToyShop
 
-🌐 **[🌐 Website](http://43.203.123.217:8082)**
+🌐 **[Website](http://43.203.123.217:8082)**
 
 💻 **[GitHub](https://github.com/BowWowBow/ToyShop)**
 
@@ -55,7 +55,7 @@ AI를 활용하여 아이디어를 현실의 서비스로 만드는
 
 ## 🐳 WhisperMe
 
-🌐 **[🌐 Website](http://43.203.123.217:5173)**
+🌐 **[Website](http://43.203.123.217:5173)**
 
 💻 **[GitHub](https://github.com/BowWowBow/WhisperMe)**
 
