@@ -20,7 +20,7 @@ AI를 활용하여 아이디어를 현실의 서비스로 만드는
 
 ## 🚀 Projects
 
-### 🎮 Portfolio RPG
+## 🎮 Portfolio RPG
 > 대표 포트폴리오
 
 🌐 **[Live Demo](http://43.203.123.217:5175)**
@@ -29,7 +29,7 @@ AI를 활용하여 아이디어를 현실의 서비스로 만드는
 
 ---
 
-### 🏭 Tannus MES
+## 🏭 Tannus MES
 
 🌐 **[Live Demo](http://43.203.123.217:8080)**
 
@@ -45,7 +45,7 @@ AI를 활용하여 아이디어를 현실의 서비스로 만드는
 
 ---
 
-### 📦 AutoOrder
+## 📦 AutoOrder
 
 🌐 **[Live Demo](http://43.203.123.217:8081)**
 
@@ -53,7 +53,7 @@ AI를 활용하여 아이디어를 현실의 서비스로 만드는
 
 ---
 
-### 🧸 ToyShop
+## 🧸 ToyShop
 
 🌐 **[Live Demo](http://43.203.123.217:8082)**
 
@@ -61,7 +61,7 @@ AI를 활용하여 아이디어를 현실의 서비스로 만드는
 
 ---
 
-### 🐳 WhisperMe
+## 🐳 WhisperMe
 
 🌐 **[Live Demo](http://43.203.123.217:5173)**
 
