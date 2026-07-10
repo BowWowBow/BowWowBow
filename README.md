@@ -27,7 +27,6 @@ Full Stack Developer입니다.
 
 💻 [GitHub](https://github.com/BowWowBow/portfolio-rpg)
 
----
 
 🏭 **Tannus MES**
 
@@ -35,7 +34,6 @@ Full Stack Developer입니다.
 
 💻 [GitHub](https://github.com/BowWowBow/Tannus-MES)
 
----
 
 📦 **AutoOrder**
 
@@ -43,7 +41,6 @@ Full Stack Developer입니다.
 
 💻 [GitHub](https://github.com/BowWowBow/Auto-Order)
 
----
 
 🧸 **ToyShop**
 
@@ -51,7 +48,6 @@ Full Stack Developer입니다.
 
 💻 [GitHub](https://github.com/BowWowBow/ToyShop)
 
----
 
 🐳 **WhisperMe**
 
