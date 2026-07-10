@@ -71,10 +71,6 @@ AI를 활용하여 아이디어를 현실의 서비스로 만드는
 
 **010-7210-1527**
 
-🌐 **Portfolio**
-
-http://43.203.123.217:5175
-
 📍 **Location**
 
 Gimhae, South Korea
