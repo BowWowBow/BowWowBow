@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 안녕하세요. 정경수입니다.
 
-<!--
-**BowWowBow/BowWowBow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI를 활용하여
+아이디어를 현실의 서비스로 만드는
 
-Here are some ideas to get you started:
+Full Stack Developer입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+☕ Java
+🌱 Spring Boot
+⚛ React
+🗄 MySQL
+🐳 Docker
+☁ AWS
+🤖 OpenAI API
+
+---
+
+## 🚀 Projects
+
+🏭 Tannus MES
+
+📦 AutoOrder
+
+🧸 ToyShop
+
+🐳 WhisperMe
+
+🎮 Portfolio RPG
+
+---
+
+## 📫 Contact
+
+📧 zzangmait1524@gmail.com
+
+🌐 Portfolio
+http://43.203.123.217:5175
