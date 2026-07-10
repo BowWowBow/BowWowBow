@@ -21,16 +21,20 @@ Full Stack Developer입니다.
 
 ## 🚀 Projects
 
-🏭 Tannus MES
+🏭 **Tannus MES**  
+🌐 **[Live Demo](http://43.203.123.217:8080)**
 
-📦 AutoOrder
+📦 **AutoOrder**  
+🌐 **[Live Demo](http://43.203.123.217:8081)**
 
-🧸 ToyShop
+🧸 **ToyShop**  
+🌐 **[Live Demo](http://43.203.123.217:8082)**
 
-🐳 WhisperMe
+🐳 **WhisperMe**  
+🌐 **[Live Demo](http://43.203.123.217:5173)**
 
-🎮 Portfolio RPG
-
+🎮 **Portfolio RPG**  
+🌐 **[Live Demo](http://43.203.123.217:5175)**
 ---
 
 ## 📫 Contact
