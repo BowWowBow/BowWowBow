@@ -21,6 +21,9 @@ Full Stack Developer입니다.
 
 ## 🚀 Projects
 
+🎮 **Portfolio RPG**  
+🌐 **[Live Demo](http://43.203.123.217:5175)**
+
 🏭 **Tannus MES**  
 🌐 **[Live Demo](http://43.203.123.217:8080)**
 
@@ -33,8 +36,6 @@ Full Stack Developer입니다.
 🐳 **WhisperMe**  
 🌐 **[Live Demo](http://43.203.123.217:5173)**
 
-🎮 **Portfolio RPG**  
-🌐 **[Live Demo](http://43.203.123.217:5175)**
 ---
 
 ## 📫 Contact
